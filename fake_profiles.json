@@ -1,1 +1,26 @@
-
+[
+  {
+    "name": "Sofia",
+    "location": "Istanbul, Turkey",
+    "videoUrl": "https://raw.githubusercontent.com/saeedsharifmobologics-bit/dating_video/main/grok-video-013817a0-6def-488a-b1d4-f1beeed16f88%20(1).mp4",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/068/822/642/small/a-little-girl-with-big-eyes-looking-at-the-camera-photo.JPG"
+  },
+  {
+    "name": "Amira",
+    "location": "Cairo, Egypt",
+    "videoUrl": "https://raw.githubusercontent.com/saeedsharifmobologics-bit/dating_video/main/grok-video-013817a0-6def-488a-b1d4-f1beeed16f88%20(2).mp4",
+    "imageUrl": "https://images.unsplash.com/photo-1706943262459-3ef6ce03305c?fm=jpg&q=60&w=3000"
+  },
+  {
+    "name": "Leila",
+    "location": "Dubai, UAE",
+    "videoUrl": "https://raw.githubusercontent.com/saeedsharifmobologics-bit/dating_video/main/grok-video-013817a0-6def-488a-b1d4-f1beeed16f88%20(3).mp4",
+    "imageUrl": "https://i.pinimg.com/736x/9d/10/47/9d10472f52377b6678a2fd81324b2938.jpg"
+  },
+  {
+    "name": "Yasmin",
+    "location": "Karachi, Pakistan",
+    "videoUrl": "https://raw.githubusercontent.com/saeedsharifmobologics-bit/dating_video/main/grok-video-013817a0-6def-488a-b1d4-f1beeed16f88.mp4",
+    "imageUrl": "https://wallpapers.com/images/hd/mia-khalifa-wearing-a-suit-7eqmr734xd960yam.jpg"
+  }
+]
